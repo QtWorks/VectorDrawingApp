@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ChildView.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorWnd.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawApp1.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GradientDlg.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GradientTabCtrl.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LayersDlg.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearGradientDlg.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectCustomDlg.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectsDlg.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="RadialGradientDlg.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeButton.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="wcutil.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildView.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorWnd.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawApp1.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="GradientDlg.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="GradientTabCtrl.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="LayersDlg.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="LinearGradientDlg.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectCustomDlg.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectsDlg.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="RadialGradientDlg.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeButton.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="wcutil.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="UserImages.bmp">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="brush_icon.png">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="brush_icon_small.png">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="res\DrawApp1.ico">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="res\DrawApp1.rc2">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="ReadMe.txt">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{12242f4e-0595-4280-b6c2-25f1ea83622f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{97b6e489-4089-4902-8598-1918abc91e15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{f7e9f6fc-47a0-41c4-ab33-6ebd89d2f804}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DrawApp1.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
