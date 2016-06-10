@@ -9,6 +9,3 @@
 RENDERINGENGINE_API D2D1::ColorF GdiToColorF(COLORREF color);
 RENDERINGENGINE_API RenderingEngine::ColorARGB GdiToColorARGB(COLORREF color);
 RENDERINGENGINE_API RenderingEngine::ColorRGB GdiToColorRGB(COLORREF color);
-
-
-

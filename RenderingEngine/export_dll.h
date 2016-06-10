@@ -5,4 +5,3 @@
 #else
 #define RENDERINGENGINE_API __declspec(dllimport)
 #endif
-
